@@ -1,0 +1,30 @@
+
+Planner comparison
+
+A* summary
+- Total path length: 766 cells
+- MPC simulation time: 14.577865600585938 ms
+- Delivery time: 279.5s
+- Landing time: 322.5s
+- Airtime: 80.5s
+- Total energy: 839.4626782258891 J
+
+
+Wind-biased RRT summary
+- Total path length: 56 cells
+- MPC simulation time: 36.55600547790527 ms
+- Delivery time: 286.0s
+- Landing time: 348.0s
+- Airtime: 106.0s
+- Total energy: 1366.4436144073265 J
+
+
+Standard RRT summary
+- Total path length: 54 cells
+- MPC simulation time: 52.732229232788086 ms
+- Delivery time: 290.0s
+- Landing time: 346.5s
+- Airtime: 104.5s
+- Total energy: 1134.7964857623995 J
+
+(fiftyone) vivekdhir77@Viveks-MacBook-Air drone project % 

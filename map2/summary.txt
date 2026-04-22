@@ -1,0 +1,25 @@
+A* summary
+- Total path length: 637 cells
+- MPC simulation time: 16.162872314453125 ms
+- Delivery time: 139.5s
+- Landing time: 172.0s
+- Airtime: 66.0s
+- Total energy: 870.2599060841399 J
+
+
+Wind-biased RRT summary
+- Total path length: 45 cells
+- MPC simulation time: 36.19885444641113 ms
+- Delivery time: 147.0s
+- Landing time: 188.5s
+- Airtime: 82.5s
+- Total energy: 1155.043435999259 J
+
+
+Standard RRT summary
+- Total path length: 45 cells
+- MPC simulation time: 50.98605155944824 ms
+- Delivery time: 149.5s
+- Landing time: 192.0s
+- Airtime: 86.0s
+- Total energy: 1078.411497402192 J
